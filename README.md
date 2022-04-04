@@ -34,7 +34,7 @@ Note: For these comments to accurately export to the Javadoc comments, please ad
 
 <h3> II.  Application </h3>
 
-<h3> C.  Create classes with data and logic that map to the UML class diagram and include the supplied Part class provided in the attached “Part.java.” Do not alter the provided class. Include all the classes and members as shown in the UML diagram. Your code should demonstrate the following: </h3>
+<h4> C.  Create classes with data and logic that map to the UML class diagram and include the supplied Part class provided in the attached “Part.java.” Do not alter the provided class. Include all the classes and members as shown in the UML diagram. Your code should demonstrate the following: </h4>
 
 •   inheritance
 
